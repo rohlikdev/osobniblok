@@ -1,22 +1,22 @@
-# ## Personal school blog
+## Personal school blog
 
-# - Part of my online portfolio: https://rohlikdev.vercel.app/
+- Part of my online portfolio: https://rohlikdev.vercel.app/
 
-# 
 
-# ## Tech used
 
-# - HTML, CSS, Sass
+## Tech used
 
-# 
+- HTML, CSS, Sass
 
-# ## Live demo
 
-# - https://rohlikdev.vercel.app/source/projects/osobni-blok/index.html
 
-# 
+## Live demo
 
-# ## Author
+- https://rohlikdev.vercel.app/source/projects/osobni-blok/index.html
 
-# - rohlikdev
+
+
+## Author
+
+- rohlikdev
 
