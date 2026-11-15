@@ -6,13 +6,13 @@
 
 # \## Tech used
 
-# \- HTML, CSS, Sass, JavaScript
+# \- HTML, CSS, Sass
 
 # 
 
 # \## Live demo
 
-# \- https://rohlikdev.vercel.app/source/projects/bstavby/index.html
+# \- https://rohlikdev.vercel.app/source/projects/osobni-blok/index.html
 
 # 
 
