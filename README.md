@@ -1,22 +1,22 @@
-# \## bstavby
+# ## Personal school blog
 
-# \- Part of my online portfolio: https://rohlikdev.vercel.app/
-
-# 
-
-# \## Tech used
-
-# \- HTML, CSS, Sass
+# - Part of my online portfolio: https://rohlikdev.vercel.app/
 
 # 
 
-# \## Live demo
+# ## Tech used
 
-# \- https://rohlikdev.vercel.app/source/projects/osobni-blok/index.html
+# - HTML, CSS, Sass
 
 # 
 
-# \## Author
+# ## Live demo
 
-# \- rohlikdev
+# - https://rohlikdev.vercel.app/source/projects/osobni-blok/index.html
+
+# 
+
+# ## Author
+
+# - rohlikdev
 
